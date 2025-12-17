@@ -16,7 +16,7 @@ A modern, high-performance React application designed to optimize hotel room occ
 
 ## 🛠 Tech Stack
 
-- **Core**: React 18, TypeScript, Vite
+- **Core**: React 19, TypeScript, Vite
 - **State Management**: Redux Toolkit
 - **UI Framework**: Material UI (MUI v5)
 - **Testing**: Jest, React Testing Library
@@ -69,7 +69,7 @@ src/
 │   ├── slices/            # Redux Slices (roomsSlice)
 │   └── store.ts           # Redux Store Configuration
 ├── story/
-│   ├── atoms/             # Basic building blocks (NumberInput, StatItem)
+│   ├── atoms/             # Basic building blocks (NumberInput, StatisticItem)
 │   ├── molecules/         # Compound components (RevenueRow, RoomInput)
 │   └── templates/         # Page layouts (DashboardLayout)
 └── assignment-input/      # Configuration data (guestData.ts)
