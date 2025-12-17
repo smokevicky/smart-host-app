@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1765957399593" clover="3.2.0">
+  <project timestamp="1765957399593" name="All files">
+    <metrics statements="119" coveredstatements="115" conditionals="29" coveredconditionals="29" methods="26" coveredmethods="26" elements="174" coveredelements="170" complexity="0" loc="119" ncloc="119" packages="13" files="20" classes="20"/>
+    <package name="app">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.ts" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/store.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.customHooks">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="useRoomState.ts" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/customHooks/useRoomState.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.dataUtilities">
+      <metrics statements="27" coveredstatements="27" conditionals="2" coveredconditionals="2" methods="9" coveredmethods="9"/>
+      <file name="calculateOccupancy.ts" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/dataUtilities/calculateOccupancy.ts">
+        <metrics statements="27" coveredstatements="27" conditionals="2" coveredconditionals="2" methods="9" coveredmethods="9"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="28" count="15" type="stmt"/>
+        <line num="29" count="126" type="stmt"/>
+        <line num="30" count="122" type="stmt"/>
+        <line num="32" count="15" type="stmt"/>
+        <line num="33" count="126" type="stmt"/>
+        <line num="34" count="64" type="stmt"/>
+        <line num="37" count="15" type="stmt"/>
+        <line num="38" count="37" type="stmt"/>
+        <line num="39" count="15" type="stmt"/>
+        <line num="41" count="15" type="stmt"/>
+        <line num="44" count="15" type="stmt"/>
+        <line num="45" count="15" type="stmt"/>
+        <line num="46" count="15" type="stmt"/>
+        <line num="48" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+        <line num="55" count="11" type="stmt"/>
+        <line num="58" count="11" type="stmt"/>
+        <line num="62" count="11" type="stmt"/>
+        <line num="63" count="11" type="stmt"/>
+        <line num="66" count="11" type="stmt"/>
+        <line num="67" count="11" type="stmt"/>
+        <line num="68" count="11" type="stmt"/>
+        <line num="71" count="11" type="stmt"/>
+        <line num="72" count="11" type="stmt"/>
+        <line num="75" count="15" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.pages.OccupancyDashboard">
+      <metrics statements="14" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="OccupancyDashboard.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/pages/OccupancyDashboard/OccupancyDashboard.styles.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="OccupancyDashboard.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/pages/OccupancyDashboard/OccupancyDashboard.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+        <line num="47" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="81" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.slices">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="roomsSlice.ts" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/slices/roomsSlice.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.utilities">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="currencyFormatter.ts" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/app/utilities/currencyFormatter.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="assignment-input">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="guestData.ts" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/assignment-input/guestData.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="story.atoms.icon_label">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="IconLabel.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/atoms/icon_label/IconLabel.styles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+      </file>
+      <file name="IconLabel.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/atoms/icon_label/IconLabel.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="story.atoms.number_input">
+      <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <file name="NumberInput.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/atoms/number_input/NumberInput.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="NumberInput.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/atoms/number_input/NumberInput.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="23" count="21" type="stmt"/>
+        <line num="29" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="8" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="story.atoms.statistic_item">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="StatisticItem.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/atoms/statistic_item/StatisticItem.styles.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+      </file>
+      <file name="StatisticItem.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/atoms/statistic_item/StatisticItem.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="18" count="25" type="stmt"/>
+      </file>
+    </package>
+    <package name="story.molecules.revenue_row">
+      <metrics statements="12" coveredstatements="12" conditionals="20" coveredconditionals="20" methods="2" coveredmethods="2"/>
+      <file name="RevenueRow.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/molecules/revenue_row/RevenueRow.styles.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="14" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+      <file name="RevenueRow.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/molecules/revenue_row/RevenueRow.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="16" coveredconditionals="16" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="29" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="33" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="story.molecules.room_input">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="RoomInput.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/molecules/room_input/RoomInput.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="RoomInput.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/molecules/room_input/RoomInput.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="24" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="story.templates.dashboard_layout">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="DashboardLayout.styles.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/templates/dashboard_layout/DashboardLayout.styles.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="DashboardLayout.tsx" path="/Users/jyoti.jena/Documents/Repos/smart-host-app/src/story/templates/dashboard_layout/DashboardLayout.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
