@@ -6,7 +6,12 @@ A modern, high-performance React application designed to optimize hotel room occ
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
 ![Tech Stack](https://img.shields.io/badge/stack-React%20%7C%20Redux%20%7C%20MUI-blue)
 
-## 🚀 Features
+## 🚀 Live Demo
+
+- **Main Application**: [https://smokevicky.github.io/smart-host-app/](https://smokevicky.github.io/smart-host-app/)
+- **Storybook Documentation**: [https://smokevicky.github.io/smart-host-app/storybook/](https://smokevicky.github.io/smart-host-app/storybook/)
+
+## ✨ Features
 
 - **Revenue Optimization Algorithm**: Automatically sorts guests and allocates rooms to maximize total payout.
 - **Smart Upgrades**: Upgrades high-paying Economy guests to Premium rooms only when Economy supply is exhausted.
