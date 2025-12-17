@@ -1,4 +1,4 @@
-import type { Meta, StoryObj } from '@storybook/react-vite';
+import type { Meta, StoryObj } from '@storybook/react';
 import { RoomInput } from './RoomInput';
 import { BedDouble } from 'lucide-react';
 

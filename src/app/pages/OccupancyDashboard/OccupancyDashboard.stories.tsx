@@ -1,4 +1,4 @@
-import type { Meta, StoryObj } from '@storybook/react-vite';
+import type { Meta, StoryObj } from '@storybook/react';
 import { Provider } from 'react-redux';
 import { store } from '../../store';
 import { OccupancyDashboard } from './OccupancyDashboard';

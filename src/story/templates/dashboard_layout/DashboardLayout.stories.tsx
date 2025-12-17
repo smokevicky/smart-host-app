@@ -1,4 +1,4 @@
-import type { Meta, StoryObj } from '@storybook/react-vite';
+import type { Meta, StoryObj } from '@storybook/react';
 import { DashboardLayout } from './DashboardLayout';
 import { Box, Typography } from '@mui/material';
 
